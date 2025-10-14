@@ -7,13 +7,13 @@
 ## 🚀 About Me
 - 🎓 Tech enthusiast from *Mysuru, Nanjangud*  
 - 💻 Passionate about *programming, AI, and open-source projects*  
-- 🌱 Currently learning *Full Stack Development /*  
+- 🌱 Currently learning *Full Stack Development *  
 - ⚡ Love solving real-world problems through code  
 
 ---
 
 ## 🛠 Tech Stack
-*Languages:* Java, Python, C, JavaScript  
+*Languages:* Java, Python, JavaScript  
 *Frameworks:* React, Node.js, Express  
 *Databases:* MySQL, MongoDB  
 *Tools:* Git, GitHub, VS Code  
