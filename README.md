@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 🎓 Tech enthusiast from *Mysuru, Nanjangud*  
 - 💻 Passionate about *programming, AI, and open-source projects*  
-- 🌱 Currently learning *Full Stack Development   
+- 🌱 Currently learning Full Stack Development   
 - ⚡ Love solving real-world problems through code  
 
 ---
