@@ -29,9 +29,8 @@
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/niranjan-s-603405304" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/niranjan_s" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" /></a>
-  <a href="https://www.instagram.com/niranjan.codes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@niranjantech" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" /></a>
+  <a href="https://x.com/Niranja62852444?t=s14aIs1eM4I9aNHs5COc3w&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_niranjan_s___?igsh=Nm14NGdzcXY2ZXE2" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
