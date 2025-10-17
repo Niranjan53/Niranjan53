@@ -1,18 +1,23 @@
-# 👋 Hi, I'm Niranjan S  
+<h1 align="center">👋 Hi, I'm Niranjan S</h1>
+<p align="center"><em>"Let’s take the action before it’s too late"</em></p>
 
-💡 *"Let’s take the action before it’s too late"*  
+<p align="center">
+  💻 Full Stack & Machine Learning Enthusiast from <b>Mysuru, Nanjangud</b>  
+  <br>
+  🚀 Passionate about building real-world projects & open-source contributions
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Tech enthusiast from **Mysuru, Nanjangud**  
-- 💻 Passionate about **programming, AI, and open-source projects**  
-- 🌱 Currently learning **Full Stack Development / Machine Learning**  
-- ⚡ Love solving real-world problems through code  
+- 🎓 Tech enthusiast exploring *AI, Full Stack Development, and Open Source*  
+- 🌱 Currently learning *MERN Stack / Machine Learning*  
+- 💡 Love solving *real-world problems* through code  
+- ⚡ Believe in “Action before it’s too late” mindset  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### 💬 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -20,12 +25,12 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Frameworks
+### ⚙ Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗃️ Databases
+### 🗃 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -36,9 +41,24 @@
 
 ---
 
+## 🔭 Currently Working On
+- Enhancing my *Smart City Application*
+- Exploring *NLP-based Educational Projects*
+- Building *Full Stack Web Apps using MERN*
+
+---
+
+## 📚 Currently Exploring
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![MERN Stack](https://img.shields.io/badge/MERN-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![APIs](https://img.shields.io/badge/APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
 ## 📂 Featured Projects
+- [🌆 Smart City Application](https://github.com/Niranjan53/Smart-City-Application-) — Web app for smart city resource management using modern web tech.  
+- [🧠 NLP Education Assistant](#) — AI-powered chatbot to enhance student learning (Coming soon!)  
 - [🔗 Prg1](https://github.com/Niranjan53/Prg1) — My first repository!  
-*(Add more repos once you publish them)*
 
 ---
 
@@ -52,9 +72,16 @@
 ---
 
 ## 📊 GitHub Stats
-![Niranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niranjan53&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Niranjan53&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niranjan53&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan53&layout=compact&theme=tokyonight" height="150" />
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
-Let’s build something awesome together 🚀
+⭐ *Thanks for visiting my profile!*  
+Let’s build something awesome together 🚀  
+Feel free to connect or collaborate!
+
+---
