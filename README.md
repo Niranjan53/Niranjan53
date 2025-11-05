@@ -75,7 +75,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Niranjan53&show_icons=true&theme=tokyonight&v=2" height="150" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Niranjan53&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com /?user=Niranjan53&theme=tokyonight&v=2" height="150" />
 </p>
 
 <p align="center">
