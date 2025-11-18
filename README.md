@@ -2,7 +2,7 @@
 <p align="center"><em>"Let’s take the action before it’s too late"</em></p>
 
 <p align="center">
-  💻 Full Stack & Machine Learning Enthusiast from <b>Mysuru, Nanjangud</b>  
+  💻 Full Stack Enthusiast from <b>Mysuru, Nanjangud</b>  
   <br>
   🚀 Passionate about building real-world projects & open-source contributions
 </p>
